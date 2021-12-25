@@ -1,1 +1,11 @@
-# Linear-Regression
+# Linear Regression
+- **Neuroscience / Neuroimaging concepts**
+    - How to model and estimate voxel responses to different conditions
+    - Simulating a signal
+    - Design Matrix
+- **Datascience / Coding concepts**
+    - Statistical Models
+    - Simple Linear Regression
+    - Cost functions: Sum of Squared Errors (SSE)
+    - Relationship between correlation and regression
+    - Multiple Regression
